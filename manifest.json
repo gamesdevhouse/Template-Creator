@@ -3,10 +3,10 @@
   "description": "",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Template Creator Pro",
+  "name": "Template Creator:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Template Creator Pro",
+  "short_name": "Template Creator:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Template Creator Pro",
+      "name": "Template Creator:Pro",
       "url": "",
       "description": ""
     }
